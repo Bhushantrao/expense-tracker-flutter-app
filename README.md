@@ -130,6 +130,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - feel free to use and adapt it for personal or commercial projects.
